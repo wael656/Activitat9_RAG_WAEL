@@ -1,0 +1,3 @@
+¿Qué es el ITICBCN? Es el Instituto TIC de Barcelona especializado en formación tecnológica.
+¿Dónde está el examen? El examen de IA es el viernes 10 de abril.
+¿Qué temas entran? Transformers, Hugging Face, Gradio y RAG.

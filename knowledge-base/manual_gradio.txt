@@ -1,0 +1,3 @@
+Gradio permite crear interfaces web con Python.
+gr.Interface es para flujos simples y gr.Blocks para diseños personalizados.
+El método .launch() inicia el servidor y share=True genera una URL pública.

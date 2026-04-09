@@ -1,0 +1,3 @@
+Hugging Face es la plataforma principal para modelos de IA.
+Las pipelines son la forma más rápida de usar modelos.
+La tokenización convierte texto en números (input_ids) y usa una attention_mask para ignorar el padding.

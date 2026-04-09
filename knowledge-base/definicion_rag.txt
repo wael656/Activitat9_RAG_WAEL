@@ -1,0 +1,3 @@
+RAG significa Retrieval-Augmented Generation.
+Sirve para dar contexto externo a un LLM y evitar alucinaciones.
+Se usan bases de datos vectoriales como ChromaDB para guardar embeddings y recuperar información.

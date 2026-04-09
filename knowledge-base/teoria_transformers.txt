@@ -1,0 +1,3 @@
+Los Transformers usan un mecanismo llamado auto-atención (self-attention).
+Existen tres arquitecturas: Encoder (como BERT), Decoder (como GPT) y Seq2Seq (como T5).
+El mecanismo de atención permite a la IA entender el contexto de una palabra mirando las demás palabras de la frase.
